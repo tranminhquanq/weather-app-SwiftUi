@@ -11,6 +11,7 @@
 		FADC79AD25A7021A008343E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADC79AC25A7021A008343E2 /* ContentView.swift */; };
 		FADC79AF25A70220008343E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADC79AE25A70220008343E2 /* Assets.xcassets */; };
 		FADC79B225A70220008343E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADC79B125A70220008343E2 /* Preview Assets.xcassets */; };
+		FADC79BB25A810F7008343E2 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADC79BA25A810F7008343E2 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FADC79AE25A70220008343E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FADC79B125A70220008343E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FADC79B325A70220008343E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADC79BA25A810F7008343E2 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FADC79AE25A70220008343E2 /* Assets.xcassets */,
 				FADC79B325A70220008343E2 /* Info.plist */,
 				FADC79B025A70220008343E2 /* Preview Content */,
+				FADC79BA25A810F7008343E2 /* WeatherButton.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				FADC79AD25A7021A008343E2 /* ContentView.swift in Sources */,
 				FADC79AB25A7021A008343E2 /* LandmarksApp.swift in Sources */,
+				FADC79BB25A810F7008343E2 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
